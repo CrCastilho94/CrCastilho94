@@ -1,7 +1,11 @@
--👋 Hello, I'm @CrCastilho94
+-👋 Hello, I'm @CrCastilho94.
+
 👀 I am interested in learning programming.
+
 🌱 I am currently learning HTML, CSS, Python and Javascripts.
+
 💞️ I'm looking to collaborate on other projects.
+
 📫 How to get to me... instagram @crcastilho094.
 
 <!---
